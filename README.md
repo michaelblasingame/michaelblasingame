@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @michaelblasingame
-- 👀 I’m interested in natural language processing
-- 🌱 I’m currently learning new ways to utilize Python's NTLK
-- 💞️ I’m looking to collaborate on sentiment analysis improvements
-- 📫 How to reach me DM is fine! 
+Thanks for reaching my Github!
 
-<!---
-michaelblasingame/michaelblasingame is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💼 I'm a Director of Data Services, specializing in healthcare analytics, data engineering, and AI-driven solutions.
+
+🔍 I'm passionate about transforming complex data into actionable insights that improve patient outcomes, operational efficiency, and business strategy.
+
+🛠️ I work extensively with Python, SQL, R, AWS, dbt, and machine learning, building scalable data pipelines, analytics platforms, and predictive models.
+
+🧠 My interests include natural language processing, conversational AI, predictive analytics, and applied machine learning, particularly in healthcare.
+
+📊 I enjoy bridging the gap between technical teams and business stakeholders, turning complex analytical findings into meaningful decisions.
+
+🤝 I'm interested in collaborating on AI/ML, NLP, data engineering, and healthcare analytics projects.
+
+📫 Feel free to reach out via GitHub or connect with me on LinkedIn!
